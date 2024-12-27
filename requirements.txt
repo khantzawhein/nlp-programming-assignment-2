@@ -1,0 +1,8 @@
+pandas
+pyap
+nltk
+emoji
+tabulate
+modin[all]
+textstat
+tqdm
